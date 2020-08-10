@@ -1,7 +1,8 @@
 # UFO_Sighting
 Francis Odo
 
-Background 
+Background
+
 Creating a web site involves a number of programing applications, techniques and methodologies. In this project, the focus is on enhancing HTML with Java Script and CSS. Given a datafile, we want to create multiple search options which will be used to filter the data and generate results. 
 Objective
 The objective is to provide multiple search options for the user to search for data. The intended search options are: 
